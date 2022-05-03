@@ -242,7 +242,7 @@ footer p{
     font-size: 2rem;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 786px) {
     .main_header_left {
         height: auto;
         margin: 5rem 0;
