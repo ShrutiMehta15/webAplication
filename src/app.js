@@ -28,7 +28,7 @@ app.get("/weather", (req, res) =>{
 })
 app.get("*", (req, res) => {
     res.render('404err', {
-        errorMsg: "OOP'S! its an error"
+        errorMsg: 'OOPS! its an error'
     })
 })
 app.listen(port, () => {
